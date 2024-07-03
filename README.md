@@ -2,7 +2,7 @@
 
 >🚀 **Scalaris** -  a novel framework designed to facilitate the rapid development of decentralized applications by leveraging advanced consensus protocols.
 >
->🚀 **Scalar**, the first blockchain built on **Scalaris**, is the next gen L1 Blockchain that can unifies and shares security and liquidity to secure blockchains and aggregate siloed TVL.
+>🚀 **Scalar**, the first blockchain built on **Scalaris**, is the next gen L1 Blockchain that can unify and share security and liquidity to secure blockchains and aggregate siloed TVL.
 > 
 ---
 ### 📝 Docs
