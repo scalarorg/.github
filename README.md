@@ -13,15 +13,15 @@
 
 ---
 
-### 🛠️ Scalaris Architecture
+### 🛠️ Scalaris Framework
 | Name          | Description                                                                                     | Repo                                                                 |
 |---------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| scalaris      | Scalaris Architecture                                                                           | [scalarorg/scalaris](https://github.com/scalarorg/scalaris)     |
 | ABCI          | Scalaris ABCI Adapter                                                                           | [scalarorg/abci](https://github.com/scalarorg/abci)                  |
 | Evmos         | Scalaris Consensus Client for ETH Execution Layer                                               | [scalarorg/evmos](https://github.com/scalarorg/evmos)                |
 | CometBFT      | A distributed, Byzantine fault-tolerant, deterministic state machine replication engine         | [scalarorg/cometbft](https://github.com/scalarorg/cometbft)          |
 | reth          | Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust | [scalarorg/reth](https://github.com/scalarorg/reth)                  |
 | Tendermint-rs | Client libraries for Tendermint/CometBFT                                                        | [scalarorg/tendermint-rs](https://github.com/scalarorg/tendermint-rs)|
-|scalaris       | Scalaris Framework                                                                              |[scalarorg/scalaris](https://github.com/scalarorg/scalaris)           |
 
 ---
 
@@ -31,6 +31,14 @@
 | Scalar                            | Scarlar Blockchain           | [scalarorg/scalar](https://github.com/scalarorg/scalar)  |
 
 ---
+### 🧪 Scalar Bitcoin Staking Testnet
+| Name                              | Description                  | Repo                                                             |
+|-----------------------------------|------------------------------|------------------------------------------------------------------|
+| BTC Staking                       | Bitcoin Staking Testnet      | [scalarorg/btcstaking](https://github.com/scalarorg/btcstaking)  |
+| bitcoin-escrow-with-time-out      | Bitcoin Escrow with time out | [scalarorg/bitcoin-escrow-with-time-out](https://github.com/scalarorg/bitcoin-escrow-with-time-out)  |
+
+---
+
 ### 💻 Frontend
 | Name           | Description                  | Repo                                                                     |
 |----------------|------------------------------|--------------------------------------------------------------------------|
