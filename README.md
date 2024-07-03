@@ -32,10 +32,11 @@
 
 ---
 ### 🧪 Scalar Bitcoin Staking Testnet
-| Name                              | Description                  | Repo                                                             |
-|-----------------------------------|------------------------------|------------------------------------------------------------------|
-| BTC Staking                       | Bitcoin Staking Testnet      | [scalarorg/btcstaking](https://github.com/scalarorg/btcstaking)  |
-| bitcoin-escrow-with-time-out      | Bitcoin Escrow with time out | [scalarorg/bitcoin-escrow-with-time-out](https://github.com/scalarorg/bitcoin-escrow-with-time-out)  |
+| Name                              | Description                  | Repo                                                                                                |
+|-----------------------------------|------------------------------|-----------------------------------------------------------------------------------------------------|
+| BTC Staking                       | Bitcoin Staking Testnet      | [scalarorg/btcstaking](https://github.com/scalarorg/btcstaking)                                     |
+| bitcoin-escrow-with-time-out      | Bitcoin Escrow with time out | [scalarorg/bitcoin-escrow-with-time-out](https://github.com/scalarorg/bitcoin-escrow-with-time-out) |
+| remote btc lib                     |Remote Bitcoin Library       |[scalarorg/remotebtclib](https://github.com/scalarorg/remotebtclib)                                 |
 
 ---
 
@@ -53,4 +54,3 @@
 | 🐦 X (Twitter) | https://twitter.com/scalarprotocol                                                 |
 | 💻 Telegram    | https://t.me/scalarchat                                                            |
 | 📱 Discord     | https://discord.com/invite/a5Hx6GnqzJ                                              |
-| 📑 Pitch Deck  | https://drive.google.com/file/d/13z4XZlLZNqRLPR3ZUgKmWvEC0DFLC7UH/view?usp=sharing |
