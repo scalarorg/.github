@@ -37,6 +37,15 @@
 | BTC Staking                       | Bitcoin Staking Testnet      | [scalarorg/btcstaking](https://github.com/scalarorg/btcstaking)                                     |
 | bitcoin-escrow-with-time-out      | Bitcoin Escrow with time out | [scalarorg/bitcoin-escrow-with-time-out](https://github.com/scalarorg/bitcoin-escrow-with-time-out) |
 | remote btc lib                     |Remote Bitcoin Library       |[scalarorg/remotebtclib](https://github.com/scalarorg/remotebtclib)                                 |
+| sbtc-minting-contract              | sBTC Minting Contract        | [scalarorg/sbtc-minting-contract](https://github.com/scalarorg/sbtc-minting-contract)
+
+---
+### 🧬 Scalar Cross-Chain
+| Name                              | Description                  | Repo                                                                                                |
+|-----------------------------------|------------------------------|-----------------------------------------------------------------------------------------------------|
+| xchains-core                      | Cross-chain Core             | [scalarorg/xchains-core](https://github.com/scalarorg/xchains-core)                                    |
+| xchains-indexer                   | Cross-chain Indexer | [scalarorg/xchains-indexer](https://github.com/scalarorg/xchains-indexer) |
+| scalar-xchains-scanner            | Scalar Cross-chain Explorer       |[scalarorg/scalar-xchains-scanner](https://github.com/scalarorg/scalar-xchains-scanner)   |
 
 ---
 
