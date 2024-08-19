@@ -8,7 +8,7 @@
 ### 📝 Docs
 | Website                              | Description                  | Repo                                                        |
 |--------------------------------------|------------------------------|-------------------------------------------------------------|
-| https://scalar.gitbook.io/scalar     | Scalar Protocl Documentation | [scalarorg/scalar](https://github.com/scalarorg/scalar)     |
+| https://scalar.gitbook.io/scalar     | Scalar Protocol Documentation | [scalarorg/scalar](https://github.com/scalarorg/scalar)     |
 | https://scalaris.gitbook.io/scalaris | Scalaris Documentation       | [scalarorg/scalaris](https://github.com/scalarorg/scalaris) |
 
 ---
